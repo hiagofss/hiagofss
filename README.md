@@ -57,3 +57,7 @@
 <img src="https://raw.githubusercontent.com/hiagofss/hiagofss/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br />
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c5df6d8bda28d991444de6?variant=dark&roadmaps=backend%2Csoftware-architect%2Csoftware-design-architecture)](https://roadmap.sh)
